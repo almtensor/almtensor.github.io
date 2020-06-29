@@ -1,5 +1,5 @@
 body {
-    background-color: #00c2ec;
+    background-color: hsl(50, 33%, 25%);
 }
 #flex {
     display: flex;
